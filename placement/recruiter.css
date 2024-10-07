@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #003399;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  h1, h2 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  .companies ul {
+    list-style: disc;
+    padding: 0;
+  }
+  
+  .companies li {
+    margin-bottom: 5px;
+  }
+  
+  .attract p {
+    margin-bottom: 10px;
+  }
+  
+  .attract ul {
+    list-style: square;
+    padding: 0;
+    margin-left: 20px;
+  }
+  
+  .attract a {
+    background-color: #003399;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .attract a:hover {
+    background-color: #3366cc;
+  }
+  
+  footer {
+    background-color: #eee;
+    text-align: center;
+    padding: 10px;
+  }
+  
