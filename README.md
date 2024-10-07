@@ -8,9 +8,13 @@ The map dashboard is a key feature, providing real-time data visualization that 
 The frontend design is crafted with the goal of making the portal both informative and engaging, utilizing modern web development practices to ensure a seamless user experience.
 
 This project is a collaborative effort involving five team members : Astuti Kumari
-                                                                     Sanika Deepak Chavan 
+
+                                                                    Sanika Deepak Chavan 
+                                                                    
                                                                      Kivinshi Patel 
+                                                                     
                                                                      Krishna Yadav 
+                                                                     
                                                                      Nidhi Yadav
                                                                      
 Together, they are applying their skills in design engineering to create a solution that caters to the placement needs of Government Engineering College Bharuch, contributing to the professional growth and employability of its students.
